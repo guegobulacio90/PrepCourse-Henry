@@ -1,2 +1,1 @@
-# PrepCouse-Henry
-Este es un repositorio del modulo de PrepCourse Henry
+Este es un proyecto de prueba de crear un repositorio y clonarlo desde gihub a mi computadora.
